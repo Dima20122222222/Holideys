@@ -1,0 +1,131 @@
+.h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-right: 997px;
+    margin-left: 235px;
+    color: #ffffff;
+}
+    
+.a1 {
+    position: absolute;
+    width: px;
+    height: px;
+    left: px;
+    top: 11px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #ffffff;
+    margin-right: 346px;
+    margin-left: 1023px;
+    
+}
+
+.a2 {
+    position: absolute;
+    width: px;
+    height: px;
+    left: px;
+    top: 11px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+     display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #ffff;
+    margin-left: 1103px;
+    margin-right: 254px;
+}
+
+.secti {
+     background-image: url(./images/desk-header\ 1.png);
+     background-repeat: no-repeat;
+     position: absolute;
+     height: 800px;
+     width: 1530px;
+     left: 1px;
+     top: 1px;  
+     background-size: cover;
+}
+
+.h11 {
+    position: absolute;
+    width: 508px;
+    height: 127px;
+    left: 467px;
+    top: 201px;    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 63px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    text-transform: uppercase;
+     color: #FFFFFF;  
+     
+}
+
+.h22 {
+    position: absolute;
+    width: 427px;
+    height: 28px;
+    left: 507px;
+    top: 364px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+     color: #FFFFFF;
+}
+
+.h223 {
+    position: absolute;
+    width: 207px;
+    height: 17px;
+    left: 600px;
+    top: 400px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    width: 228px;
+    height: 43px;
+    left: 607px;
+    top: 425px;
+    background: #FF4E50;
+    
+}
+
+.a21 {
+      
+}
