@@ -105,19 +105,31 @@
 
 
 .h12 {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 22px;
-    line-height: 27px;
-    /* identical to box height */
-    display: flex;
-    align-items: flex-end;
-    text-align: center;
-    color: #333333;
+      
+width: 431px;
+height: 27px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+color: #333333;
     
 }
 
 .sect {
     
+}
+
+.card {
+    margin-right: 119px;
+}
+
+.list {
+    display: flex;
+    list-style: none;
 }
