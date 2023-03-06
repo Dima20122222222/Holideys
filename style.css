@@ -1,4 +1,6 @@
 .h2 {
+    width: 208px;
+    height: 24px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
@@ -9,40 +11,50 @@
     text-align: center;
     letter-spacing: 1px;
     text-transform: uppercase;
-    margin-right: 997px;
-    margin-left: 235px;
-    color: #ffffff;
+    color: #FFFFFF;
+    
+    
 
 }
     
 .a1 {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 17px;
-    display: flex;
-    align-items: flex-end;
-    text-align: center;
-    color: #ffffff;
-    margin-right: 346px;
-    margin-left: 1023px;
-    
-}
-
-.a2 {
+    width: 71px;
+    height: 17px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 17px;
     /* identical to box height */
-     display: flex;
+    display: flex;
     align-items: flex-end;
     text-align: center;
-    color: #ffff;
-    margin-left: 1103px;
-    margin-right: 254px;
+    color: #FFFFFF;
+}
+
+.a2 {
+    width: 83px;
+    height: 17px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    width: 93px;
+    height: 39px;
+    background: rgba(26, 25, 21, 0.0001);
+    border: 2px solid #FFFFFF;
+    border-radius: 30px;
+    justify-content: center;
+   
+    
+    
 }
 
 .secti {
@@ -55,45 +67,64 @@
 }
 
 .h11 {
+    position: absolute;
+    width: 508px;
+    height: 127px;
+    left: 467px;
+    top: 201px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
     font-size: 52px;
     line-height: 63px;
+    display: flex;
+    align-items: flex-end;
     text-align: center;
     text-transform: uppercase;
-    color: #FFFFFF;  
-     
+    color: #FFFFFF; 
 }
 
 .h22 {
-    
+    position: absolute;
+    width: 427px;
+    height: 28px;
+    left: 507px;
+    top: 364px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
     line-height: 28px;
+    display: flex;
+    align-items: flex-end;
     text-align: center;
-     color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 .h223 {
-    background: #FF4E50;
+    position: absolute;
+    width: 207px;
+    height: 17px;
+    left: 617px;
+    top: 438px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 17px;
+    /* identical to box height */
     display: flex;
     align-items: flex-end;
     text-align: center;
     color: #FFFFFF;
+    position: absolute;
     width: 228px;
     height: 43px;
+    left: 607px;
+    top: 425px;
     background: #FF4E50;
-    margin-left: auto;
-    margin-right: auto;
-    border: 3px;
+    border-radius: 30px;
+    justify-content: center;
 }
 
 
@@ -105,25 +136,13 @@
 
 
 .h12 {
-      
+margin-left: 504px;
+margin-right: 505px;
 width: 431px;
 height: 27px;
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 22px;
-line-height: 27px;
-/* identical to box height */
-display: flex;
-align-items: flex-end;
-text-align: center;
-color: #333333;
-    
+color: black;
 }
 
-.sect {
-    
-}
 
 .card {
     margin-right: 119px;
@@ -132,4 +151,27 @@ color: #333333;
 .list {
     display: flex;
     list-style: none;
+}
+
+.sect {
+    align-items: center;
+}
+
+.img1 {
+    margin-left: 301px;
+}
+
+.a21 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dar {
+    display: flex;
+    gap: 9px;
+}
+
+.card {
+   
 }
