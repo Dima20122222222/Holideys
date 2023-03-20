@@ -125,6 +125,7 @@
     background: #FF4E50;
     border-radius: 30px;
     justify-content: center;
+    align-items: center;
 }
 
 
@@ -191,4 +192,28 @@ color: black;
    background: #FFFFFF;
    border: 2px solid #FF4E50;
    
+}
+
+.a3 {     
+  margin-left: 622px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+  color: #FF4E50;
+  width: 195px;
+  height: 43px;
+  left: 0px;
+  top: 0px;
+  background: #FFFFFF;
+  border: 2px solid #FF4E50;
+  border-radius: 30px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
 }
